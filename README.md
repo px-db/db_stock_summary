@@ -3,4 +3,4 @@
 Download di :
   https://www.idx.co.id/en/market-data/trading-summary/stock-summary
 
-simpan di direktori `dwonload`
+simpan di direktori `download`
