@@ -170,3 +170,5 @@ cython_debug/
 
 .devcontainer
 .devcontainer/
+stock_summary.db3
+.zip
